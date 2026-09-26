@@ -368,3 +368,8 @@ n8n_update_partial_workflow({
 20. **n8n-nodes-base.executeWorkflowTrigger** - Sub-workflow calls
 
 **Note:** LangChain nodes use the `@n8n/n8n-nodes-langchain.` prefix, core nodes use `n8n-nodes-base.`
+
+## User Preferences
+
+- Emojis are allowed in responses
+- Never use markdown formatting (**, *, __, etc.) - respond in plain text only

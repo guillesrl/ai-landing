@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automatizaciones IA | Agenda Citas y Multiplica tus Ventas</title>
+    <meta name="description"
+        content="Sistemas de automatización a medida para inmobiliarias, estética y restaurantes. Agenda citas 24/7 y ahorra 10 horas semanales.">
+    <meta property="og:title" content="Automatizaciones IA | Multiplica tus Reservas">
+    <meta property="og:description" content="Sistemas inteligentes de automatización que responden dudas y agendan citas 24/7. Ahorra 10 horas semanales sin esfuerzo.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="es_ES">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Automatizaciones IA | Multiplica tus Reservas">
+    <meta name="twitter:description" content="Sistemas inteligentes de automatización que responden dudas y agendan citas 24/7.">
+    <link rel="canonical" href="https://guillers.es/">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤖</text></svg>">
+    <link rel="stylesheet" href="index.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LC9EQM8ZJV"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-LC9EQM8ZJV');
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Automatizaciones IA",
+      "description": "Sistemas de automatización a medida para inmobiliarias, estética y restaurantes",
+      "telephone": "+376615808",
+      "email": "guillesrl@gmail.com",
+      "url": "https://guillers.es/",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "AD"
+      },
+      "areaServed": ["ES", "AD"],
+      "serviceType": ["Automation", "IA Consulting", "Process Optimization"],
+      "priceRange": "$$",
+      "sameAs": []
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tiempo tarda en configurarse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Configuramos tu sistema en 48 horas máximo. Nuestro equipo realiza una auditoría inicial de tus procesos actuales, integra las APIs necesarias y despliega tu asistente IA."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se integra con mi software actual?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutamente. Nuestras soluciones se integran con CRM, sistemas de reservas, agendas, plataformas de e-commerce y prácticamente cualquier software. Soportamos integraciones con Google Calendar, Calendly, Outlook, Stripe, n8n y muchas más."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué pasa si mi negocio es muy específico?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cada sistema de automatización lo diseñamos a medida según tus procesos únicos, tus reglas de negocio y tus clientes. Trabajamos contigo para crear un asistente que hable como tu marca."
+          }
+        }
+      ]
+    }
+    </script>
+</head>
+
+<body>
+    <div class="stars-overlay"></div>
+    <nav>
+        <div class="container">
+            <a href="javascript:void(0);" class="brand" onclick="window.scrollTo(0, 0); document.documentElement.scrollTop = 0;">Autonomo <span class="text-gradient">IA</span></a>
+            <a href="#contacto" class="btn btn-primary" style="padding: 0.6rem 1.5rem; font-size: 0.9rem;" onclick="gtag('event', 'cta_click', {cta_location: 'navbar', cta_text: 'Consulta Gratis'})">Consulta
+                Gratis</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Duplica tus Clientes<span class="text-gradient">Sin Trabajar Más Horas</span></h1>
+                <p>Automatizamos la atención de tu negocio para responder, calificar y agendar citas 24/7 mientras tú te enfocas en crecer.</p>
+                <div class="hero-actions">
+                    <a href="#contacto" class="btn btn-primary" onclick="gtag('event', 'cta_click', {cta_location: 'hero', cta_text: 'Empieza Hoy Mismo'})">Empieza Hoy Mismo</a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <img src="hero-asistencia.jpg" alt="Asistente IA 24/7 Autonomo IA">
+            </div>
+        </div>
+    </header>
+
+    <section class="section-padding">
+        <div class="container">
+            <div style="text-align: center; max-width: 700px; margin: 0 auto 4rem;">
+                <span class="feature-badge">⚡ EFICIENCIA OPERATIVA</span>
+                <h2>La automatización no es un lujo, es una <span class="text-gradient">necesidad estratégica</span>
+                </h2>
+                <p>Cada hora que nuestro sistema dedica a gestionar tus citas es una hora de trabajo humano que ahorras
+                    para centrarte en crecer.</p>
+            </div>
+
+            <div class="features-grid">
+                <div class="glass-card card-fade">
+                    <div class="feature-badge">🏠 INMOBILIARIAS</div>
+                    <span class="text-gradient">Calificación Automática</span>
+                    <p>Filtra prospectos y agenda visitas a propiedades 24/7 sin intervención manual.</p>
+                    <a href="#contacto" class="btn btn-secondary card-cta" onclick="document.getElementById('fieldInteres').value='Inmobiliaria'">Quiero esto para mi negocio →</a>
+                </div>
+                <div class="glass-card card-fade">
+                    <div class="feature-badge">💅 ESTÉTICA & PELUQUERIA</div>
+                    <span class="text-gradient">Cero Citas Perdidas</span>
+                    <p>Recordatorios por WhatsApp que reducen el ausentismo en un 90% automáticamente.</p>
+                    <a href="#contacto" class="btn btn-secondary card-cta" onclick="document.getElementById('fieldInteres').value='Estetica/Peluqueria'">Quiero esto para mi negocio →</a>
+                </div>
+                <div class="glass-card card-fade">
+                    <div class="feature-badge">🍽️ RESTAURANTES</div>
+                    <span class="text-gradient">Reservas Inteligentes</span>
+                    <p>Gestión de mesas y pedidos automatizada que libera a tu personal en horas punta.</p>
+                    <a href="#contacto" class="btn btn-secondary card-cta" onclick="document.getElementById('fieldInteres').value='Restaurante/Cafeteria'">Quiero esto para mi negocio →</a>
+                </div>
+            </div>
